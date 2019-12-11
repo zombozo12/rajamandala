@@ -9,7 +9,7 @@ A Company Website about Posyantekdes Institution provides technical services, in
 ![Achievements](https://raw.githubusercontent.com/zombozo12/rajamandala/master/Achievements.png)
 
 ## Vision and Mission
-![Vision and Mission](https://raw.githubusercontent.com/zombozo12/rajamandala/master/Vision and Mission.png)
+![Vision and Mission](https://raw.githubusercontent.com/zombozo12/rajamandala/master/Vision%20and%20Mission.png)
 
 ## Activity Plan
-![Activity Plan](https://raw.githubusercontent.com/zombozo12/rajamandala/master/Activity Plan Rajamandala.png)
+![Activity Plan](https://raw.githubusercontent.com/zombozo12/rajamandala/master/Activity%20Plan%20Rajamandala.png)
